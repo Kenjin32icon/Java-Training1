@@ -1,4 +1,4 @@
-package LastClass;
+package class2;
 
 public class operatorsinjava {
     int yearofbirth = 1999;

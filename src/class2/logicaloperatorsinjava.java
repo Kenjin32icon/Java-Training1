@@ -1,4 +1,4 @@
-package LastClass;
+package class2;
 
 public class logicaloperatorsinjava {
     int age = 20;

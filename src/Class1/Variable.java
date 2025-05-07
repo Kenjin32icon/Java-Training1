@@ -1,4 +1,4 @@
-package LastClass;
+package Class1;
 
 public class Variable {
     int age = 20;
