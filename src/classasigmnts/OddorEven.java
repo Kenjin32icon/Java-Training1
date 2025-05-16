@@ -21,4 +21,5 @@ public class OddorEven {
         } finally {
             scanner.close(); // Closing the Scanner object to prevent resource leakage
         }
+    }
 }
